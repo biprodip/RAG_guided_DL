@@ -1,6 +1,12 @@
 # RAG_guided_DL
 
-End-to-end **Retrieval-Augmented Generation (RAG)** demos in Python using **LangChain**, **SentenceTransformers**, **FAISS/Chroma**, **Groq LLMs**, **Typesense**, and **LangGraph (Agentic RAG)**.
+End-to-end **Retrieval-Augmented Generation (RAG)** demos in Python using 
+**LangChain**, 
+**SentenceTransformers**, 
+**FAISS/Chroma**, 
+**Groq LLMs**, 
+**Typesense**, 
+**LangGraph (Agentic RAG)**.
 
 This repo is meant as a learning playground: it walks from *raw documents → chunks → embeddings → vector store → RAG query + summarisation*, with both script-based and notebook-based workflows.
 
